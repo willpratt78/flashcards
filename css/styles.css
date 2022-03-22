@@ -5,7 +5,18 @@
 .term {
   width: 70%;
   margin: 50px;
+  border: 3px solid rgb(91, 91, 212);
+  padding: 20px;
 }
 .term button{
   float: right;
+  background-color: rgb(101, 184, 209);
+  border: none;
+  padding: 10px;
+  border-radius: 5%;
+  transition: 0.5s;
+}
+.term button:hover {
+  background-color: rgb(91, 91, 212);
+  cursor: pointer;
 }
