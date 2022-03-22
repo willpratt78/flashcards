@@ -1,0 +1,11 @@
+.hide {
+  display: none;
+}
+
+.term {
+  width: 70%;
+  margin: 50px;
+}
+.term button{
+  float: right;
+}
